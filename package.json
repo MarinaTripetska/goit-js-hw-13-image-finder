@@ -19,10 +19,16 @@
     "url": "https://github.com/MarinaTripetska/goit-js-hw-13-image-finder/issues"
   },
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "parcel-plugin-handlebars": "^0.4.4"
   }
 }
